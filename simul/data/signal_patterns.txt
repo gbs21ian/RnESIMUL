@@ -1,0 +1,2 @@
+1,1,N-green;L-red;R-green,10
+1,1,N-red;L-green;R-red,10
